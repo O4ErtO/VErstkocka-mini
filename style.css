@@ -1,0 +1,212 @@
+body{
+    padding: 1000px;
+}
+
+
+.logot{
+    display: inline;
+
+}
+.logo{
+    position: absolute;
+    width: 109.41px;
+    height: 36.36px;
+    left: 187.29px;
+    top: 75.64px;
+}
+.mainImage{
+ 
+    
+}
+.imge{
+    position: absolute;
+    width: 757px;
+    height: 821px;
+    left: 369px;
+    top: -70px;
+    
+  
+
+}
+
+.rightBar{
+    position: absolute;
+left: 76%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+font-family: 'Nunito', sans-serif;
+background: #415167;
+display: inline-block;
+}
+.text-main{
+    position: absolute;
+width: 470px;
+height: 200px;
+left: 129px;
+top: 500px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 54px;
+line-height: 70px;
+/* or 130% */
+
+
+color: #415167;
+
+
+}
+.ur, .per , .por{
+    margin-top: 0;
+    margin-bottom: 8px;
+
+}
+
+.per{   
+
+color: white;
+background: #C7A17A;
+}
+.headT{
+    text-decoration: none;
+    text-align: center;
+    
+    text-align: center;
+    color: white;
+    position: absolute;
+height: 22px;
+left: 17.07%;
+right: 50%;
+top: 250px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+}
+.headT:hover{text-decoration: underline;}
+.headT:active{color: grey;}
+.cof, .phin, .comb, .gift, .lien{
+    text-decoration: none;
+    color: white;
+    
+}
+.cof:hover, .phin:hover, .comb:hover, .gift:hover, .lien:hover{
+    text-decoration: underline
+}
+.cof:active, .phin:active, .comb:active, .gift:active, .lien:active{
+
+color: grey;}
+.cof{
+    position: absolute;
+    width: 140px;
+    height: 225px;
+    left: 20%;
+    top: 300px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+}
+.phin{
+    position: absolute;
+    width: 140px;
+    height: 225px;
+    left: 20%;
+    top: 350px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+}
+.comb{
+
+    position: absolute;
+    width: 140px;
+    height: 225px;
+    left: 20%;
+    top: 400px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px
+}
+.gift{
+    position: absolute;
+    width: 140px;
+    height: 225px;
+    left: 20%;
+    top: 450px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px
+}
+.lien{
+    position: absolute;
+    width: 140px;
+    height: 225px;
+    left: 20%;
+    top: 500px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px
+}
+
+
+
+.personalCof{
+
+}
+.chos{
+    position: absolute;
+height: 20px;
+left: 11.61%;
+right: 14.73%;
+top: 922px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+/* or 120% */
+
+text-align: center;
+
+color: #415167;
+}
+.cofwr{
+    position: absolute;
+height: 35px;
+left: 33.5%;
+right: 0%;
+top: 940px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 34px;
+
+
+
+color: #415167;
+}
+.cofImg{
+    background-color: white;
+}
